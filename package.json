@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "realms-vtt",
   "private": true,
   "scripts": {
     "build": "turbo run build",
